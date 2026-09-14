@@ -132,7 +132,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Search Data Index
   const searchDatabase = [
     { title: 'Chambers Tour & Office Gallery', desc: 'Authentic photos of Principal Advocate Chamber, Law Library, Associates Research Hall, and Sanctum.', link: '#gallery' },
-    { title: 'Panel Advocate for Banks', desc: 'Canara Bank, Union Bank Of India, Can Fin Homes Ltd, Punjab National Bank, CSB Bank, SIDBI.', link: '#panel-banks' },
+    { title: 'Panel Advocate for Banks', desc: 'Canara Bank, Union Bank Of India, Can Fin Homes Ltd, Punjab National Bank, CSB Bank, Repco Bank, SIDBI.', link: '#panel-banks' },
     { title: 'SARFAESI Act & DRT Proceedings', desc: 'Debt Recovery Tribunal representation, bank auction defense, Section 17 appeals.', link: '#practice' },
     { title: 'Civil Litigation & Injunctions', desc: 'Money suits, contract breach, specific performance, permanent injunctions.', link: '#practice' },
     { title: 'Family & Matrimonial Law', desc: 'Divorce, custody, maintenance, domestic violence, partition & succession.', link: '#practice' },
